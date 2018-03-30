@@ -1,0 +1,21 @@
+{
+  "name": "taotui/cashier",
+  "version": "1.0.1",
+  "type": "library",
+  "description": "Taotui cashier",
+  "authors": [
+    {
+      "name": "beller",
+      "email": "lvfengling10@126.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0",
+    "illuminate/support": "~5.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "TaoTui\\Cashier\\": "src/"
+    }
+  }
+}

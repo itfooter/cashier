@@ -1,8 +1,8 @@
 {
-  "name": "itfooter/cashier",
+  "name": "itfooter/cashiers",
   "version": "1.0.1",
   "type": "library",
-  "description": "Taotui cashier",
+  "description": "cashier",
   "authors": [
     {
       "name": "beller",
@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "TaoTui\\Cashier\\": "src/"
+      "TaoTui\\Cashiers\\": "src/"
     }
   }
 }

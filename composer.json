@@ -1,6 +1,6 @@
 {
-  "name": "itfooter/cashiers",
-  "version": "1.0.1",
+  "name": "itfooter/cashier",
+  "version": "1.0.2",
   "type": "library",
   "description": "cashier",
   "authors": [

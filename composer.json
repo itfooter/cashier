@@ -1,5 +1,5 @@
 {
-  "name": "itfooter/cashier",
+  "name": "taotui/cashier",
   "version":"1.0.4",
   "type": "library",
   "description": "cashier",
@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "TaoTui\\Cashiers\\": "src/"
+      "Taotui\\Cashier\\": "src/"
     }
   }
 }

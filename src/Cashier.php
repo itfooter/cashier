@@ -14,7 +14,7 @@ class Cashier
     {
     }
 
-	//测试1.0.3
+	//测试1.0.5
     public function pay($data,$config,$code){
         $this->config = $config;
         return $this->$code($data);
